@@ -1,0 +1,8 @@
+Bibliotecas usadas:
+    - Pandas
+    - PysimpleGUI
+    - Pyinstaller
+    - Openpyxl
+
+O formulario consiste em pegar a mensagem do usuario e salvar na planilha, que sera consultada pela automacao.
+
